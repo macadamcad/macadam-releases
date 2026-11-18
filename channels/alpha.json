@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "channel": "alpha",
+  "release": null,
+  "targets": [
+    {
+      "platform": "macos",
+      "architecture": "arm64",
+      "status": "preparing"
+    },
+    {
+      "platform": "windows",
+      "architecture": "x86_64",
+      "status": "preparing"
+    },
+    {
+      "platform": "windows",
+      "architecture": "arm64",
+      "status": "preparing"
+    },
+    {
+      "platform": "linux",
+      "architecture": "x86_64",
+      "status": "preparing"
+    },
+    {
+      "platform": "linux",
+      "architecture": "arm64",
+      "status": "preparing"
+    }
+  ]
+}
